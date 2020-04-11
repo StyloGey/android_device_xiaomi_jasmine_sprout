@@ -18,7 +18,7 @@
 set -e
 
 # Required!
-export DEVICE=jasmine_sprout
+export DEVICE=wayne
 export DEVICE_COMMON=sdm660-common
 export VENDOR=xiaomi
 
